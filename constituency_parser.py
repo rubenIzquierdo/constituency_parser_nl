@@ -21,7 +21,7 @@ except:
     
 last_modified='27Feb2015'
 version="1.0"
-this_name = 'alpino kaf constituency parser'
+this_name = 'alpino KAF/NAF constituency parser'
 this_layer = 'constituents'
 
 
